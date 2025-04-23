@@ -1,0 +1,34 @@
+\ifx\undefined\bysame
+\newcommand{\bysame}{\leavevmode\hbox to\leftmargin{\hrulefill\,\,}}
+\fi
+\begin{thebibliography}{xx}
+
+\harvarditem[Campbell et al.]{Campbell, Grossman and
+  Wang}{1993}{campbell_grossman_wang_1993}
+{\bf Campbell, John~Y., Sanford~J. Grossman, and Jiang Wang}, ``{Trading Volume
+  and Serial Correlation in Stock Returns},'' {\it The Quarterly Journal of
+  Economics}, 11 1993, {\it 108} (4), 905--939.
+
+\harvarditem[Loughran and Mcdonald]{Loughran and
+  Mcdonald}{2011}{loughran_mcdonald_2011}
+{\bf Loughran, Tim and Bill Mcdonald}, ``When Is a Liability Not a Liability?
+  Textual Analysis, Dictionaries, and 10-Ks,'' {\it The Journal of Finance},
+  2011, {\it 66} (1), 35--65.
+
+\harvarditem[Stock and Watson]{Stock and Watson}{2016}{STOCK2016415}
+{\bf Stock, J.H. and M.W. Watson}, ``Chapter 8 - Dynamic Factor Models,
+  Factor-Augmented Vector Autoregressions, and Structural Vector
+  Autoregressions in Macroeconomics,'' in John~B. Taylor and Harald Uhlig,
+  eds., {\it Handbook of Macroeconomics}, Vol.~2, Elsevier, 2016, pp.~415--525.
+
+\harvarditem[Tetlock]{Tetlock}{2007}{tetlock_2007}
+{\bf Tetlock, Paul~C.}, ``Giving Content to Investor Sentiment: The Role of
+  Media in the Stock Market,'' {\it The Journal of Finance}, 2007, {\it 62}
+  (3), 1139--1168.
+
+\harvarditem[Young and Soroka]{Young and Soroka}{2012}{young_soroka_2012}
+{\bf Young, Lori and Stuart Soroka}, ``Affective News: The Automated Coding of
+  Sentiment in Political Texts,'' {\it Political Communication}, 2012, {\it 29}
+  (2), 205--231.
+
+\end{thebibliography}
